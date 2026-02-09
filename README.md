@@ -1,0 +1,2 @@
+# bxndi.-lua
+mi script
